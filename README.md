@@ -1,8 +1,8 @@
-[![CI/CD GitHub Actions](https://github.com/seekerk/gtest/actions/workflows/test-action.yml/badge.svg)](https://github.com/seekerk/gtest/actions/workflows/test-action.yml)
-[![Coverage Status](https://coveralls.io/repos/seekerk/gtest/badge.svg?branch=master)](https://coveralls.io/github/seekerk/gtest?branch=master)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=seekerk_ctest)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=code_smells)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
+[![CI/CD GitHub Actions](https://github.com/kozlova22107/L2/actions/workflows/test-action.yml/badge.svg)](https://github.com/kozlova22107/L2/actions/workflows/test-action.yml)
+[![Coverage Status](https://coveralls.io/repos/kozlova22107/L2/badge.svg?branch=master)](https://coveralls.io/github/kozlova22107/L2?branch=master)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=kozlova22107_L2&metric=alert_status)](https://sonarcloud.io/dashboard?id=kozlova22107_L2)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=kozlova22107_L2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=kozlova22107_L2)
+[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=kozlova22107_L2&metric=code_smells)](https://sonarcloud.io/dashboard?id=kozlova22107_L2)
 
 # Пример работы связки Qt + Google Test (gtest) + QtCreator
 
